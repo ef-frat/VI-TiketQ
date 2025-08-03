@@ -248,21 +248,3 @@ npm install
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **React Team** - For the amazing framework
-- **Tailwind CSS** - For the utility-first CSS approach
-- **Vite** - For the fast build tool
-- **SVG Icons** - Heroicons for beautiful icons
-
-## 📞 Support
-
-If you have any questions or need help:
-- Create an issue in the repository
-- Check the troubleshooting section above
-- Review the code comments for implementation details
-
----
-
-**Made with ❤️ for digital ticket collectors everywhere**
